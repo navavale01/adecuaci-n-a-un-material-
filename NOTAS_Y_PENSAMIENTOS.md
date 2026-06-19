@@ -8,7 +8,7 @@ Este documento compila todas las ideas, análisis, adaptaciones pedagógicas y r
 El repositorio original **Gabriela-Eliza/Animales.** es un entorno de pruebas educativas que contiene:
 * **`README.md`**: Un archivo inicial con la descripción *"Pruevas."*.
 * **`juego_sonidos_animales.zip`**: Un empaquetado comprimido con el código y recursos locales del juego.
-* **`Juego_Sonidos_Animales.html`**: Un interactivo web infantil que enseña onomatopeyas de 6 animales (vaca 🐮, pollito 🐥, perro 🐶, gato 🐱, gallo 🐓 y caballo 🐴).
+* **`index.html`**: Un interactivo web infantil que enseña sonidos de 4 animales (pescado 🐟, ballena 🐋, león 🦁 y borrego 🐑).
 
 ---
 
@@ -38,8 +38,10 @@ Modificamos el archivo principal `Juego_Sonidos_Animales.html` con las siguiente
 Cuando el sonido real falla, el navegador activa la síntesis de voz en español (`es-MX`) con:
 * Velocidad reducida a `0.75` (Ritmo pausado).
 * Una frase que deletrea el nombre del animal de forma silábica:
-  * *"Esta es la... va... ca... y hace... ¡Muuuu, muuuu!"*
-  * *"Este es el... pe... rro... y hace... ¡Guau, guau!"*
+  * *"Este es el... pes... ca... do... y hace... ¡Glup, glup!"*
+  * *"Esta es la... ba... lle... na... y hace... ¡Canta la ballena!"*
+  * *"Este es el... le... ón... y hace... ¡Grrr, grrr!"*
+  * *"Este es el... bo... rre... go... y hace... ¡Beeee, beeee!"*
 
 ---
 

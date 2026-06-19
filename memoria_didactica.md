@@ -17,7 +17,7 @@ Esta memoria didáctica fundamenta el uso y las adaptaciones del recurso interac
 ---
 
 ## 2. Propósito Pedagógico
-Fomentar la expresión oral, la discriminación auditiva y la exploración del entorno natural de las niñas y los niños de preescolar a través del juego interactivo con sonidos de animales domésticos y de granja. A su vez, garantizar el derecho a la educación inclusiva mediante **ajustes razonables** que permitan la participación plena y el desarrollo de estudiantes con ritmos de aprendizaje lento o barreras para el aprendizaje.
+Fomento de la expresión oral, la discriminación auditiva y la exploración del entorno natural de las niñas y los niños de preescolar a través del juego interactivo con sonidos de diversos animales (acuáticos, terrestres, salvajes y de granja). A su vez, garantizar el derecho a la educación inclusiva mediante **ajustes razonables** que permitan la participación plena y el desarrollo de estudiantes con ritmos de aprendizaje lento o barreras para el aprendizaje.
 
 ---
 
@@ -40,7 +40,7 @@ Con base en los principios de equidad y DUA (Diseño Universal para el Aprendiza
    * *Acción:* Al hacer clic en un animal, las demás tarjetas se oscurecen al 75%, se difuminan (`blur`) y pierden color (`grayscale`). Esto ayuda a la alumna a focalizar su mirada únicamente en el animal seleccionado, evitando la sobreestimulación y distracciones del resto de la pantalla.
    * *Control de Impulsividad:* Se deshabilitan temporalmente los clics en el resto del tablero mientras el sonido del animal activo se está reproduciendo.
 2. **Refuerzo Auditivo Silabeado y Lento (Text-To-Speech):**
-   * *Acción:* Si se requiere el audio de respaldo del sistema, la voz sintetizada pronuncia de forma pausada y silabeada (con puntos suspensivos y velocidad reducida a `0.75`) el nombre del animal (ej. *"Esta es la... va... ca... y hace... ¡Muuuu!"*).
+   * *Acción:* Si se requiere el audio de respaldo del sistema, la voz sintetizada pronuncia de forma pausada y silabeada (con puntos suspensivos y velocidad reducida a `0.75`) el nombre del animal (ej. *"Este es el... pes... ca... do... y hace... ¡Glup, glup!"*).
    * *Beneficio:* Permite mayor tiempo de procesamiento auditivo para conectar el grafema (palabra escrita), la imagen (emoji) y el sonido correspondiente.
 
 ---
@@ -52,7 +52,7 @@ Con base en los principios de equidad y DUA (Diseño Universal para el Aprendiza
 
 #### **Inicio (10 minutos):**
 1. Sentar a los niños en semicírculo (plenaria).
-2. Presentar tarjetas físicas impresas con los emojis del juego (vaca, pollito, perro, gato, gallo, caballo).
+2. Presentar tarjetas físicas impresas con los emojis del juego (pescado, ballena, león, borrego).
 3. Realizar preguntas detonadoras: *¿Quién tiene una mascota en casa? ¿Cómo hace el gato? ¿Dónde viven las vacas?*
 
 #### **Desarrollo (25 minutos - Metodología Híbrida):**
